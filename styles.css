@@ -201,17 +201,14 @@ nav{
   
   .slider input:nth-child(1):checked ~ .slides {
     left: 0;
-	top: 135px;
   }
   
   .slider input:nth-child(2):checked ~ .slides {
-    left: -100%;
-	  top: 135px;
+    left: -100%;  
   }
   
   .slider input:nth-child(3):checked ~ .slides {
     left: -200%;
-	  top: 135px;
   }
   
   .slider input:nth-child(1):checked ~ .arrows label:nth-child(1),
